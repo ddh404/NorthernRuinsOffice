@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "base": "/NorthernRuinsOffice/",
+  "dataVersion": "tw-20261016-capture-20261023-03",
+  "equipment": 6,
+  "materials": 75,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/index-12dg0ZDI.js",
+      "bytes": 10427,
+      "sha256": "964c129275f7f96aa02fa20ebcf45a7c9dd2962787c73c3e6d5deb314f31e3ee"
+    },
+    {
+      "path": "assets/index-Do7Oo7s3.css",
+      "bytes": 9779,
+      "sha256": "bb9f988c2c13ab309f45f0dcc74795954bd40eb9c1d49ad1c337f028726eddbd"
+    },
+    {
+      "path": "assets/simulator-CsykjQjO.json",
+      "bytes": 55817,
+      "sha256": "0d3fec809870c25edcc0fb7ae2111e3dfd4f9b61b06e1934d3bd3fabe4dfb9fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5192,
+      "sha256": "eabbcb53aaebe3211d6022270d2f723c3d4e0bda49c88d86f8329ca716179a75"
+    }
+  ]
+}
